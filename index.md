@@ -14,9 +14,9 @@ Java | TypeScript | Git | Object-Oriented Design
 
 Board Game: Santorini  
 https://github.com/Lyccccccccccc/Borad-Game-Santorini  
-▪ Developed a web-based game for the popular board game called Santorini with god cards and user interface
-▪ Use Java for backend and TypeScript/JavaScript for frontend
-▪ use React + HandleBar.js as the state-management tools for the frontend, and use NanoHttpd to make the backend respond API calls
+▪ Developed a web-based game for the popular board game called Santorini with god cards and user interface  
+▪ Use Java for backend and TypeScript/JavaScript for frontend  
+▪ use React + HandleBar.js as the state-management tools for the frontend, and use NanoHttpd to make the backend respond API calls  
 
 ### LinkedIn  
 https://www.linkedin.com/in/Youchuan-Liu/
