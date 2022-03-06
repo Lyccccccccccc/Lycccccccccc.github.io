@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to Youchuan Liu's personal page
 
-You can use the [editor on GitHub](https://github.com/Lyccccccccccc/Lycccccccccc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Intro: I'm a Master student majoring in Computational Design at CMU. I'm seeking for 2022 summer internship positions related to Software Engineering. I have a great academic performance and am very interested in software design and development. I participated and accomplished various course and research projects in Java, TypeScript, C++, python and MATLAB. I can handle Git, Maven and Node.js for source control and build management. I can also do web applications with front end and back end combined. I'm dedicated in work and always helpful to people around me. Last but not least, I'm always enthusiastic and passionate about learning new things and he loves challenges.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Academic Projects
 
-### Markdown
+Flashcard Learning Application  
+https://github.com/Lyccccccccccc/Flashcard-Leaning-Application  
+Java | TypeScript | Git | Object-Oriented Design  
+▪ Developed a flashcard learning system with over 1200 lines of codes in Java and Typescript using Maven and npm  
+▪ Implemented functions about loading, sorting, repeating, inverting and user interface for the flashcard  
+▪ Implemented a command-line interface that parses provided arguments and sets up the right card deck and the organizing mechanisms  
+▪ Used test frameworks JUnit and ts-jest for specification and structural testing to achieve 100% branch coverage  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Board Game: Santorini  
+https://github.com/Lyccccccccccc/Borad-Game-Santorini  
+▪ Developed a web-based game for the popular board game called Santorini with god cards and user interface
+▪ Use Java for backend and TypeScript/JavaScript for frontend
+▪ use React + HandleBar.js as the state-management tools for the frontend, and use NanoHttpd to make the backend respond API calls
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lyccccccccccc/Lycccccccccc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### LinkedIn  
+https://www.linkedin.com/in/Youchuan-Liu/
